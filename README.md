@@ -7,7 +7,8 @@
 Aquí, encontrarás una muestra de los proyectos en los que he estado trabajando:
 
 ### [Proyecto 1: Crud basico de Empleados](Enlace al Proyecto 1)
-¡Descubre cómo abordé el desafío de...! [Breve descripción del proyecto y las tecnologías utilizadas]
+Este proyecto presenta un Sistema de Gestión de Empleados con operaciones CRUD, desarrollado para crear, leer, actualizar y eliminar registros de una base de datos. La aplicación web utiliza PHP para el backend, MySQL como base de datos relacional y Bootstrap para el diseño responsivo y la interfaz de usuario.
+
 
 ### [Proyecto 2: Nombre del Proyecto](Enlace al Proyecto 2)
 Explora mi enfoque para... [Breve descripción del proyecto y las tecnologías utilizadas]
