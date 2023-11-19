@@ -1,7 +1,3 @@
-# Portafolio
-portafolio hecho con HTML ,CSS ,JS ,REACT ,NODE JS  ,PHP ,MYSQL
-
-
 # Bienvenido a mi Rincón de Código ✨
 
 ¡Hola, soy Santiago! 👋 Soy un apasionado del desarrollo web De cartagena/Colombia. Mi viaje en el mundo de la programación está impulsado por la curiosidad y el deseo constante de aprender y crear.
