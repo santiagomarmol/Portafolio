@@ -6,7 +6,7 @@
 
 Aquí, encontrarás una muestra de los proyectos en los que he estado trabajando:
 
-### [Proyecto 1: Nombre del Proyecto](Enlace al Proyecto 1)
+### [Proyecto 1: Crud basico de Empleados](Enlace al Proyecto 1)
 ¡Descubre cómo abordé el desafío de...! [Breve descripción del proyecto y las tecnologías utilizadas]
 
 ### [Proyecto 2: Nombre del Proyecto](Enlace al Proyecto 2)
