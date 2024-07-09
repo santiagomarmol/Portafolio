@@ -1,5 +1,5 @@
 # Bienvenido a mi Rincón de Código ✨
-[![Quality Gate Status]([https://sonarcloud.io/api/project_badges/measure?project=VerbaNexAI_SmartlinkAnalytics&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=VerbaNexAI_SmartlinkAnalytics](https://sonarcloud.io/project/overview?id=santiagomarmol_Portafolio))
+[![Quality Gate Status](https://sonarcloud.io/summary/new_code?id=santiagomarmol_Portafolio)
 ¡Hola, soy Santiago! 👋 Soy un apasionado del desarrollo web De cartagena/Colombia. Mi viaje en el mundo de la programación está impulsado por la curiosidad y el deseo constante de aprender y crear.
 
 ## Sobre Mis Proyectos
