@@ -6,11 +6,4 @@
 ## Sobre Mis Proyectos
 
 Aquí, encontrarás una muestra de los proyectos en los que he estado trabajando:
-
-
-
-## Conéctate Conmigo
-
-Me encantaría conectar contigo y compartir experiencias. Encuéntrame en [LinkedIn](Enlace a tu perfil de LinkedIn) y [Twitter](Enlace a tu perfil de Twitter). ¡No dudes en saludar!
-
 ¡Gracias por visitar mi rincón digital! Espero que encuentres inspiración en mis proyectos y que podamos aprender juntos en este viaje emocionante. ✨
