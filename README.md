@@ -46,4 +46,15 @@ venv\Scripts\activate
  ```bash
 source venv/bin/activate
 ``` 
+## Paso 3: Instalar las Dependencias
+Con el entorno virtual activado, instala las dependencias del proyecto utilizando pip:
+ ```bash
+pip install -r requirements.txt
+```
+Este comando instalará todas las librerías listadas en el archivo requirements.txt.
 
+## Paso 5: Ejecutar el Proyecto
+Finalmente, puedes ejecutar el proyecto. Dependiendo del tipo de proyecto, el comando para ejecutar puede variar. Aquí hay algunos ejemplos comunes:
+ ```bash
+python main.py
+```
