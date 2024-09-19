@@ -79,16 +79,26 @@ Este comando iniciará el servidor y permitirá que la API esté disponible en h
 ## Paso 6: Ejecutar el Frontend
 Una vez que la API Smartlink Analytics esté en funcionamiento, puedes proceder a ejecutar el frontend. El frontend depende de la API para funcionar correctamente, por lo que es crucial que la API esté activa y escuchando en el puerto 8000 antes de iniciar el frontend.
 Para ejecutar el frontend, que está desarrollado con Flask, sigue estos pasos:
-- Abre una nueva ventana de consola para evitar conflictos con el proceso de la API que ya está en ejecución.
-- Activa el entorno virtual para el frontend en esta nueva ventana de consola. Navega al directorio del frontend y activa el entorno virtual. Por ejemplo:
+1. Abre una nueva ventana de consola para evitar conflictos con el proceso de la API que ya está en ejecución.
+2. Activa el entorno virtual para el frontend en esta nueva ventana de consola. Navega al directorio del frontend y activa el entorno virtual. Por ejemplo:
  - En Windows:
   ```bash
  cd Frontend
  venv\Scripts\activate
  ```
  -En macOS y Linux:
-   ```bash
+  ```bash
  cd Frontend
  source venv/bin/activate
  ```
--
+3. Inicia la aplicación Flask en la misma ventana de consola donde activaste el entorno virtual:
+ ```bash
+ flask run
+ ```
+Deberías ver una salida similar a esta:
+ ```bash
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ ```
+Esto iniciará el servidor Flask y tu frontend estará disponible en http://127.0.0.1:5000.
+Recuerda que la API debe estar activa antes de iniciar el frontend, ya que el frontend depende de la API para funcionar correctamente. 
+Si todo está configurado correctamente, deberías poder interactuar con la aplicación a través del frontend mientras la API maneja las solicitudes en segundo plano.
