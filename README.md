@@ -86,7 +86,7 @@ Para ejecutar el frontend, que está desarrollado con Flask, sigue estos pasos:
  cd Frontend
  venv\Scripts\activate
  ```
- -En macOS y Linux:
+ - En macOS y Linux:
   ```bash
  cd Frontend
  source venv/bin/activate
