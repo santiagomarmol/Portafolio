@@ -53,8 +53,25 @@ pip install -r requirements.txt
 ```
 Este comando instalará todas las librerías listadas en el archivo requirements.txt.
 
-## Paso 5: Ejecutar el Proyecto
-Finalmente, puedes ejecutar el proyecto. Dependiendo del tipo de proyecto, el comando para ejecutar puede variar. Aquí hay algunos ejemplos comunes:
- ```bash
-python main.py
+## Paso 5.1: Acceder a la Carpeta que Contiene la API Smartlink Analytics
+
+Para ejecutar la API Smartlink Analytics, primero necesitas navegar al directorio que contiene el código de la API. Usa el siguiente comando para entrar en la carpeta:
+
+```bash
+cd Backend
 ```
+Este comando te permitirá ingresar al directorio donde se encuentra la API.
+## Paso 5.2: Ejecutar la API Smartlink Analytics
+Para iniciar la API Smartlink Analytics, utiliza uvicorn, un servidor ASGI para aplicaciones Python. Ejecuta el siguiente comando en el directorio Backend:
+ ```bash
+uvicorn main:app
+```
+Deberías ver una salida similar a esta:
+ ```bash
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [28720]
+INFO:     Started server process [28722]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+```
+Este comando iniciará el servidor y permitirá que la API esté disponible en http://127.0.0.1:8000. Puedes presionar CTRL+C para detener el servidor cuando hayas terminado.
