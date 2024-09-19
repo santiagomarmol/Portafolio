@@ -131,7 +131,7 @@ python -m venv venv
 Activates the virtual environment:
 - On Windows:
 ````bash
-venv “scripts” activates
+venv\Scripts\activate
 ````
 - On macOS and Linux:
  ````bash
